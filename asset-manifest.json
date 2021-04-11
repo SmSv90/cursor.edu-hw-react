@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cursor.edu-hw-react/static/css/main.ed71423f.chunk.css",
+    "main.css": "/cursor.edu-hw-react/static/css/main.a37dd68f.chunk.css",
     "main.js": "/cursor.edu-hw-react/static/js/main.de2b9ba0.chunk.js",
     "main.js.map": "/cursor.edu-hw-react/static/js/main.de2b9ba0.chunk.js.map",
     "runtime-main.js": "/cursor.edu-hw-react/static/js/runtime-main.68400004.js",
@@ -10,13 +10,13 @@
     "static/js/3.6e56ba49.chunk.js": "/cursor.edu-hw-react/static/js/3.6e56ba49.chunk.js",
     "static/js/3.6e56ba49.chunk.js.map": "/cursor.edu-hw-react/static/js/3.6e56ba49.chunk.js.map",
     "index.html": "/cursor.edu-hw-react/index.html",
-    "static/css/main.ed71423f.chunk.css.map": "/cursor.edu-hw-react/static/css/main.ed71423f.chunk.css.map",
+    "static/css/main.a37dd68f.chunk.css.map": "/cursor.edu-hw-react/static/css/main.a37dd68f.chunk.css.map",
     "static/js/2.f1368982.chunk.js.LICENSE.txt": "/cursor.edu-hw-react/static/js/2.f1368982.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68400004.js",
     "static/js/2.f1368982.chunk.js",
-    "static/css/main.ed71423f.chunk.css",
+    "static/css/main.a37dd68f.chunk.css",
     "static/js/main.de2b9ba0.chunk.js"
   ]
 }
